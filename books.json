@@ -1,0 +1,8 @@
+{
+    "101": {
+        "book_id": "101",
+        "title": "Python Basics",
+        "author": "Guido",
+        "is_issued": true
+    }
+}
